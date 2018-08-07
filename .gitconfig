@@ -1,0 +1,9 @@
+[user]
+	username = tbm
+	name = Martin Michlmayr
+	website = https://www.cyrius.com/
+[commit]
+	gpgsign = true
+[aliases]
+	npm = tbm
+	github = tbm
