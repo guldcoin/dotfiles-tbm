@@ -1,7 +1,8 @@
 [user]
 	username = tbm
 	name = Martin Michlmayr
-	website = https://www.cyrius.com/
+        email = tbm@cyrius.com
+        signingkey = D866749DF7FCD903C32D01893D0787AAAF6C61DD
 [commit]
 	gpgsign = true
 [aliases]
